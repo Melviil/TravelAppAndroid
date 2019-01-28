@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TriceratopsTracker</string>
+
+    <string name="exemple">Le crumble delicieux</string>
+
+    <string name="button_1">Liste des voyages</string>
+    <string name="button_2">Créer un voyage</string>
+
+    <string name="nom_voyage">Nom du voyage : </string>
+    <string name="date_voyage">Date du voyage : </string>
+    <string name="lieu_voyage">Lieu du voyage : </string>
+    <string name="id">ID : </string>
+    <string name="nom_lieu">Nom du lieu : </string>
+    <string name="date_lieu">Date : </string>
+
+
+    <string name="button_3">Ajouter une photo</string>
+    <string name="button_5">Retour</string>
+    <string name="button_4">Valider</string>
+    <string name="button_6">Supprimer</string>
+
+</resources>
